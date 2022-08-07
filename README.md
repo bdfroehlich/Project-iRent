@@ -188,8 +188,6 @@ If you have a suggestion that would make this better, please fork the repo and c
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
 * [Img Shields](https://shields.io)
 * [SWR](https://swr.vercel.app/)
 * [Othneildrew Best Readme](https://github.com/othneildrew/Best-README-Template)
